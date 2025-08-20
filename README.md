@@ -7,18 +7,14 @@ This project applies **statistical time series forecasting** to daily bakery sal
 
 ---
 
-## ✨ Highlights
+## Highlights
 - Exploratory Data Analysis (EDA) to uncover demand patterns  
 - Baseline models (Naïve, Seasonal-Naïve, Moving Average) for benchmarking  
 - AutoARIMA and Seasonal ARIMA models with validation split  
 - Residual diagnostics and error metrics (MAE, RMSE, MAPE)  
 - Business-oriented conclusions to guide inventory & staffing decisions  
-
 ---
-Perfect 👍 — here’s a **polished `README.md`** you can drop directly into your GitHub repo. It’s written in portfolio style: clear, professional, and business-oriented.
-
----
-## 📊 Results & Insights
+## Results & Insights
 
 ### Key Findings
 
